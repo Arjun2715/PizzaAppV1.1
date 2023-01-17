@@ -1,0 +1,53 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+Arjun
+
+Nombre del Cliente: 
+Pepe
+
+Telefono: 
+659874512
+
+Dirección: 
+C/ Alicante, 56, 4o 2a
+
+La Hora de Entrega es: 
+21:00
+
+Pedido es para: 
+Llevar
+
+fecha de factura:
+17/01/2023
+
+Hora de Pedido:
+12:38
+
+Pedido pagado en/con: 
+tarjeta
+
+_
+Lista de compra 
+Pizzas:
+
+Margarita
+	Mozzarella
+	Salsa de Tomate
+Vegetariana
+	Mozzarella
+	Salsa de Tomate
+	Champiñones
+	Tomate
+	Parmesano
+	Cebolla Morada
+	+ Cebolla Morada
+	- Calabacín
+
+
+Bebidas: 
+Aquiarius
+Nestea
+
+Postres:
+Sin Postre

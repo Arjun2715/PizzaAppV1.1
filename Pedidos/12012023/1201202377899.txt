@@ -1,0 +1,64 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+Arjun
+
+Nombre del Cliente: 
+
+
+Telefono: 
+
+
+Dirección: 
+
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Llevar
+
+fecha de factura:
+12/01/2023
+
+Hora de Pedido:
+10:54
+
+Pedido pagado en/con: 
+efectivo
+
+_
+Lista de compra 
+Pizzas:
+
+CuatroQuesos
+	 Mozzarella
+	 Salsa de Tomate
+	 Queso de Cabra
+	 Emmental
+	 Gorgonzola
+Mediterránia
+	Mozzarella
+	Salsa de Tomate
+	Cebolla Morada
+	Atún
+	+ Atún
+
+DiCabra
+	Salsa de Tomate
+	Mozzarella
+	+ Mozzarella
+	+ Mozzarella
+	Doble Queso de Cabra
+	+ Doble Queso de Cabra
+	+ Doble Queso de Cabra
+	Cebolla Caramelizada
+	+ Cebolla Caramelizada
+	+ Cebolla Caramelizada
+
+
+Bebidas: 
+CocaColaZero
+
+Postres:
+Sin Postre

@@ -1,0 +1,55 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+JLabel1
+
+Nombre del Cliente: 
+
+
+Telefono: 
+
+
+Dirección: 
+
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Llevar
+
+fecha de factura:
+13/01/2023
+
+Hora de Pedido:
+12:56
+
+Pedido pagado en/con: 
+tarjeta
+
+_
+Lista de compra 
+Pizzas:
+
+Margarita
+	Mozzarella
+	Salsa de Tomate
+CuatroQuesos
+	Mozzarella
+	Salsa de Tomate
+	Gorgonzola
+	Queso de Cabra
+	+ Queso de Cabra
+	Emmental
+	+ Emmental
+
+
+Bebidas: 
+CocaColaZero
+Aquiarius
+CocaCola
+
+Postres:
+CookieDough
+CherryGracia
+SaltedCaramel

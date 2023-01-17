@@ -1,0 +1,52 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+Arjun
+
+Nombre del Cliente: 
+
+
+Telefono: 
+
+
+Dirección: 
+
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Llevar
+
+fecha de factura:
+17/01/2023
+
+Hora de Pedido:
+11:43
+
+Pedido pagado en/con: 
+tarjeta
+
+_
+Lista de compra 
+Pizzas:
+
+Mediterrania
+	 Mozzarella
+	 Salsa de Tomate
+	 Atún
+	 Cebolla Morada
+Vegetariana
+	 Mozzarella
+	 Salsa de Tomate
+	 Champiñones
+	 Tomate
+	 Calabacín
+	 Parmesano
+	 Cebolla Morada
+
+Bebidas: 
+
+Postres:
+CherryGracia
+CookieDough

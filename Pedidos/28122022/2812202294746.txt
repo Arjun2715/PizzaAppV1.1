@@ -1,0 +1,63 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+Arjun
+
+Nombre del Cliente: 
+arjun
+
+Telefono: 
+3424142342
+
+Dirección: 
+c/qwer 55 3-2
+
+La Hora de Entrega es: 
+12:25
+
+Pedido es para: 
+Llevar
+
+fecha de factura:
+28/12/2022
+
+Hora de Pedido:
+11:21
+
+Pedido pagado en/con: 
+efectivo
+
+_
+Lista de compra 
+Pizzas:
+
+Vegetariana
+	Mozzarella
+	Salsa de Tomate
+	Cebolla Morada
+	Champiñones
+	+ Champiñones
+	Parmesano
+	+ Parmesano
+	- Tomate
+	- Calabacín
+
+DiCabra
+	 Mozzarella
+	 Salsa de Tomate
+	 Doble Queso de Cabra
+	 Cebolla Caramelizada
+Pepperoni
+	Mozzarella
+	Salsa de Tomate
+	Pepperoni
+	+ Pepperoni
+	+ Pepperoni
+
+
+Bebidas: 
+Aquiarius
+CocaCola
+
+Postres:
+Sin Postre

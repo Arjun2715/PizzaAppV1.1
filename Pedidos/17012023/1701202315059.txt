@@ -1,0 +1,52 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+Admin
+
+Nombre del Cliente: 
+Albert
+
+Telefono: 
+35548844
+
+Dirección: 
+añfas
+
+La Hora de Entrega es: 
+12asdf
+
+Pedido es para: 
+Llevar
+
+fecha de factura:
+17/01/2023
+
+Hora de Pedido:
+12:55
+
+Pedido pagado en/con: 
+tarjeta
+
+_
+Lista de compra 
+Pizzas:
+
+BBQ
+	 Mozzarella
+	 Salsa de Tomate
+	 Salsa Barbacoa
+	 Bacon
+	 Pollo
+	 Ternera
+	 Cebolla
+DiCabra
+	 Mozzarella
+	 Salsa de Tomate
+	 Doble Queso de Cabra
+	 Cebolla Caramelizada
+
+Bebidas: 
+Sin Bebidas
+
+Postres:
+Sin Postre

@@ -1,0 +1,60 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+JLabel1
+
+Nombre del Cliente: 
+
+
+Telefono: 
+
+
+Dirección: 
+
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Tienda
+
+fecha de factura:
+02/01/2023
+
+Hora de Pedido:
+19:07
+
+Pedido pagado en/con: 
+efectivo
+
+_
+Lista de compra 
+Pizzas:
+
+Vegetariana
+	 Mozzarella
+	 Salsa de Tomate
+	 Champiñones
+	 Tomate
+	 Calabacín
+	 Parmesano
+	 Cebolla Morada
+4Estaciones
+	Mozzarella
+	Salsa de Tomate
+	Cebolla
+	Olivas Negras
+	+ Olivas Negras
+	Champiñones
+	+ Champiñones
+	- Jamón york
+
+
+Bebidas: 
+CocaCola Zero
+Cerveza
+
+Postres:
+Salted Caramel
+Cookie Dough
+Half backed Froyo

@@ -1,0 +1,72 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+JLabel1
+
+Nombre del Cliente: 
+
+
+Telefono: 
+
+
+Dirección: 
+
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Tienda
+
+fecha de factura:
+31/12/2022
+
+Hora de Pedido:
+10:39
+
+Pedido pagado en/con: 
+tarjeta
+
+_
+Lista de compra 
+Pizzas:
+
+Margarita
+	Salsa de Tomate
+	Mozzarella
+	+ Mozzarella
+
+Vegetariana
+	 Mozzarella
+	 Salsa de Tomate
+	 Champiñones
+	 Tomate
+	 Calabacín
+	 Parmesano
+	 Cebolla Morada
+Havaiana
+	 Mozzarella
+	 Salsa de Tomate
+	 Piña
+	 Jamón york
+DiCabra
+	 Mozzarella
+	 Salsa de Tomate
+	 Doble Queso de Cabra
+	 Cebolla Caramelizada
+Pepperoni
+	 Mozzarella
+	 Salsa de Tomate
+	 Pepperoni
+
+Bebidas: 
+CocaCola
+Cerveza
+Fanta
+Nestea
+
+Postres:
+Cookie Dough
+Cherry Gracia
+Half backed Froyo
+Salted Caramel

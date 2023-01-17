@@ -1,0 +1,53 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+JLabel1
+
+Nombre del Cliente: 
+arjun
+
+Telefono: 
+23679235678
+
+Dirección: 
+c/qwerty 12 5*4'
+
+La Hora de Entrega es: 
+11:30
+
+Pedido es para: 
+Llevar
+
+fecha de factura:
+06/01/2023
+
+Hora de Pedido:
+11:57
+
+Pedido pagado en/con: 
+tarjeta
+
+_
+Lista de compra 
+Pizzas:
+
+Mediterránia
+	 Mozzarella
+	 Salsa de Tomate
+	 Atún
+	 Cebolla Morada
+Vegetariana
+	 Mozzarella
+	 Salsa de Tomate
+	 Champiñones
+	 Tomate
+	 Calabacín
+	 Parmesano
+	 Cebolla Morada
+
+Bebidas: 
+Cerveza
+Fanta
+
+Postres:
+Fudge Brownie

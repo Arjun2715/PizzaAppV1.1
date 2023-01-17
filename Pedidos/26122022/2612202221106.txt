@@ -1,0 +1,75 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+Admin
+
+Nombre del Cliente: 
+alejandro
+
+Telefono: 
+673812372
+
+Dirección: 
+C/nou 23 4º 2'
+
+La Hora de Entrega es: 
+12:30
+
+Pedido es para: 
+Llevar
+
+fecha de factura:
+26/12/2022
+
+Hora de Pedido:
+22:37
+
+Pedido pagado en/con: 
+tarjeta
+
+_
+Lista de compra 
+Pizzas:
+
+CuatroQuesos
+	 Mozzarella
+	 Salsa de Tomate
+	 Queso de Cabra
+	 Emmental
+	 Gorgonzola
+Prosciutto
+	Mozzarella
+	Salsa de Tomate
+	Jamón york
+	+ Jamón york
+
+Mediterránia
+	Mozzarella
+	Salsa de Tomate
+	Atún
+	- Cebolla Morada
+
+Havaiana
+	Mozzarella
+	Salsa de Tomate
+	Jamón york
+	Piña
+	+ Piña
+	+ Piña
+
+
+Bebidas: 
+CocaCola Zero
+Aquiarius
+Cerveza
+CocaCola
+Nestea
+Fanta
+
+Postres:
+Salted Caramel
+Half backed Froyo
+Cherry Gracia
+Cookie Dough
+Fudge Brownie
+Chuncky Monkey

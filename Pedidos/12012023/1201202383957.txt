@@ -1,0 +1,44 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+JLabel1
+
+Nombre del Cliente: 
+
+
+Telefono: 
+
+
+Dirección: 
+
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Llevar
+
+fecha de factura:
+12/01/2023
+
+Hora de Pedido:
+08:35
+
+Pedido pagado en/con: 
+tarjeta
+
+_
+Lista de compra 
+Pizzas:
+
+Pepperoni
+	 Mozzarella
+	 Salsa de Tomate
+	 Pepperoni
+
+Bebidas: 
+Cerveza
+
+Postres:
+CookieDough
+SaltedCaramel

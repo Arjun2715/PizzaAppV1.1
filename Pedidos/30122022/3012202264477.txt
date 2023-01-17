@@ -1,0 +1,58 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+Arjun
+
+Nombre del Cliente: 
+david
+
+Telefono: 
+1231232123
+
+Dirección: 
+c/qwasszx 34 5-4
+
+La Hora de Entrega es: 
+12:00
+
+Pedido es para: 
+Tienda
+
+fecha de factura:
+30/12/2022
+
+Hora de Pedido:
+11:24
+
+Pedido pagado en/con: 
+tarjeta
+
+_
+Lista de compra 
+Pizzas:
+
+Mediterránia
+	 Mozzarella
+	 Salsa de Tomate
+	 Atún
+	 Cebolla Morada
+Vegetariana
+	Mozzarella
+	Salsa de Tomate
+	Champiñones
+	Calabacín
+	Parmesano
+	Cebolla Morada
+	+ Cebolla Morada
+	- Tomate
+
+
+Bebidas: 
+Cerveza
+CocaCola
+Fanta
+
+Postres:
+Fudge Brownie
+Cookie Doug
+

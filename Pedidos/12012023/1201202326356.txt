@@ -1,0 +1,60 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+JLabel1
+
+Nombre del Cliente: 
+
+
+Telefono: 
+
+
+Dirección: 
+
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Llevar
+
+fecha de factura:
+12/01/2023
+
+Hora de Pedido:
+11:39
+
+Pedido pagado en/con: 
+efectivo
+
+_
+Lista de compra 
+Pizzas:
+
+Vegetariana
+	 Mozzarella
+	 Salsa de Tomate
+	 Champiñones
+	 Tomate
+	 Calabacín
+	 Parmesano
+	 Cebolla Morada
+Havaiana
+	 Mozzarella
+	 Salsa de Tomate
+	 Piña
+	 Jamón york
+DiCabra
+	 Mozzarella
+	 Salsa de Tomate
+	 Doble Queso de Cabra
+	 Cebolla Caramelizada
+
+Bebidas: 
+Cerveza
+Fanta
+
+Postres:
+SaltedCaramel
+CookieDough
+Fudge Brownie

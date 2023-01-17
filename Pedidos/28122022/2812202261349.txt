@@ -1,0 +1,63 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+Arjun
+
+Nombre del Cliente: 
+
+
+Telefono: 
+
+
+Dirección: 
+
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Tienda
+
+fecha de factura:
+28/12/2022
+
+Hora de Pedido:
+10:22
+
+Pedido pagado en/con: 
+efectivo
+
+_
+Lista de compra 
+Pizzas:
+
+Mediterránia
+	 Mozzarella
+	 Salsa de Tomate
+	 Atún
+	 Cebolla Morada
+Vegetariana
+	 Mozzarella
+	 Salsa de Tomate
+	 Champiñones
+	 Tomate
+	 Calabacín
+	 Parmesano
+	 Cebolla Morada
+Havaiana
+	Mozzarella
+	Salsa de Tomate
+	Jamón york
+	+ Jamón york
+	- Piña
+
+Pepperoni
+	 Mozzarella
+	 Salsa de Tomate
+	 Pepperoni
+
+Bebidas: 
+Sin Bebidas
+
+Postres:
+Sin Postre

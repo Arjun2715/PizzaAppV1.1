@@ -1,0 +1,66 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+JLabel1
+
+Nombre del Cliente: 
+
+
+Telefono: 
+
+
+Dirección: 
+
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Tienda
+
+fecha de factura:
+16/01/2023
+
+Hora de Pedido:
+08:42
+
+Pedido pagado en/con: 
+efectivo
+
+_
+Lista de compra 
+Pizzas:
+
+Pepperoni
+	 Mozzarella
+	 Salsa de Tomate
+	 Pepperoni
+Havaiana
+	 Mozzarella
+	 Salsa de Tomate
+	 Piña
+	 Jamón york
+Prosciutto
+	 Mozzarella
+	 Salsa de Tomate
+	 Jamón york
+Vegetariana
+	 Mozzarella
+	 Salsa de Tomate
+	 Champiñones
+	 Tomate
+	 Calabacín
+	 Parmesano
+	 Cebolla Morada
+
+Bebidas: 
+Aquiarius
+CocaCola
+Cerveza
+CocaColaZero
+
+Postres:
+HalfBackedFroyo
+CookieDough
+CherryGracia
+SaltedCaramel

@@ -1,0 +1,55 @@
+Pedido Hecho por: 
+Arjun
+
+Nombre del Cliente: 
+ssdfg
+
+Telefono: 
+456456456
+
+Dirección: 
+asdfg
+
+La Hora de Entrega es: 
+12:10
+
+Pedido es para: 
+Llevar
+
+
+fecha de factura:
+26/12/2022
+
+Hora de Pedido:
+10:35
+
+Pedido pagado en/con: 
+efectivo
+_
+Lista de compra 
+Pizzas:
+
+Mediterránia
+	 Mozzarella
+	 Salsa de Tomate
+	 Atún
+	 Cebolla Morada
+Havaiana
+	Mozzarella
+	Salsa de Tomate
+	Jamón york
+	- Piña
+
+DiCabra
+	Mozzarella
+	Salsa de Tomate
+	Doble Queso de Cabra
+	Cebolla Caramelizada
+	+ Cebolla Caramelizada
+
+
+Bebidas: 
+Sin Bebidas
+
+Postres:
+Sin Postre

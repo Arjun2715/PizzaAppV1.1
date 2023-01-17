@@ -1,0 +1,60 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+JLabel1
+
+Nombre del Cliente: 
+
+
+Telefono: 
+
+
+Dirección: 
+
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Llevar
+
+fecha de factura:
+15/01/2023
+
+Hora de Pedido:
+18:17
+
+Pedido pagado en/con: 
+tarjeta
+
+_
+Lista de compra 
+Pizzas:
+
+Mediterránia
+	 Mozzarella
+	 Salsa de Tomate
+	 Atún
+	 Cebolla Morada
+4Estaciones
+	 Mozzarella
+	 Salsa de Tomate
+	 Olivas Negras
+	 Jamón york
+	 Champiñones
+	 Cebolla
+
+Bebidas: 
+Fanta
+Nestea
+CocaCola
+Cerveza
+Aquiarius
+CocaColaZero
+
+Postres:
+SaltedCaramel
+HalfBackedFroyo
+CherryGracia
+CookieDough
+FudgeBrownie
