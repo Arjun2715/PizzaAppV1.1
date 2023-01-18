@@ -1,0 +1,56 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+Alejandro
+
+Nombre del Cliente: 
+Daniel
+
+Telefono: 
+
+
+Dirección: 
+Tienda
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Tienda
+
+fecha de factura:
+18/01/2023
+
+Hora de Pedido:
+09:21
+
+Pedido pagado en/con: 
+efectivo
+
+_
+Lista de compra 
+Pizzas:
+
+Vegetariana
+	Mozzarella
+	Salsa de Tomate
+	Champiñones
+	Calabacín
+	Cebolla Morada
+	Parmesano
+	Tomate
+	+ Tomate
+
+Havaiana
+	Mozzarella
+	Salsa de Tomate
+	Jamón york
+	- Piña
+
+
+Bebidas: 
+Fanta
+Nestea
+
+Postres:
+Sin Postre
