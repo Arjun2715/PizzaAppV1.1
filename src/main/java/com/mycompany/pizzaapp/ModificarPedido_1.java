@@ -2894,7 +2894,7 @@ public class ModificarPedido_1 extends javax.swing.JFrame {
 //        v1.DataLogin(jLabel1.getText(), getCompra, sendCompra, "NewFrame");
         //        v1.getModifiedPizza(ModifiedPizza, ListaDeProductos);
         //        System.out.println(ListaDeProductos);
-        //        v1.DataLogin(jLabel1.getText(), tipoDePedido, DatosDeClientes);
+        v1.DataLogin(jLabel1.getText());
         dispose();
     }//GEN-LAST:event_GuardarImgMouseClicked
 

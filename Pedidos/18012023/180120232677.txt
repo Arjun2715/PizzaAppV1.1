@@ -1,0 +1,37 @@
+Datos de Pedido
+
+Pedido Hecho por: 
+Arjun
+
+Nombre del Cliente: 
+
+
+Telefono: 
+
+
+Dirección: 
+
+
+La Hora de Entrega es: 
+
+
+Pedido es para: 
+Tienda
+
+fecha de factura:
+18/01/2023
+
+Hora de Pedido:
+09:24
+
+Pedido pagado en/con: 
+tarjeta
+
+_
+Lista de compra 
+Pizzas:
+
+
+Bebidas: 
+
+Postres:
