@@ -30,9 +30,10 @@ public class Login extends javax.swing.JFrame {
 //        jButton1.setBorder(new RoundedBorder(10));
         //jLabel1.setIcon(new ImageIcon("bg.png"));
         loginLabel.setIcon(new ImageIcon("IMG\\buttons\\buttonLoginMainV2.png"));
+        jLabel4.setIcon(new ImageIcon("IMG\\background_login.png"));
         
 
-//        ImageIcon background = new ImageIcon("IMG\\background_login.png");
+//        ImageIcon background = ;
 //        Image img = background.getImage();
 //        Image temp = img.getScaledInstance(1920, 1080, Image.SCALE_SMOOTH);
 //        background = new ImageIcon(temp);
@@ -74,6 +75,7 @@ public class Login extends javax.swing.JFrame {
     private void initComponents() {
 
         jPanel1 = new javax.swing.JPanel();
+        jLabel5 = new javax.swing.JLabel();
         jLabel1 = new javax.swing.JLabel();
         jLabel2 = new javax.swing.JLabel();
         jTextField1 = new javax.swing.JTextField();
@@ -91,6 +93,10 @@ public class Login extends javax.swing.JFrame {
         jPanel1.setMinimumSize(new java.awt.Dimension(430, 930));
         jPanel1.setPreferredSize(new java.awt.Dimension(1920, 1080));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+
+        jLabel5.setForeground(new java.awt.Color(51, 51, 51));
+        jLabel5.setText("eg: user:admin pass:1234");
+        jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(830, 640, -1, -1));
 
         jLabel1.setFont(new java.awt.Font("Dialog", 1, 64)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(102, 102, 102));
@@ -160,7 +166,7 @@ public class Login extends javax.swing.JFrame {
                 loginLabelMouseExited(evt);
             }
         });
-        jPanel1.add(loginLabel, new org.netbeans.lib.awtextra.AbsoluteConstraints(860, 670, 210, 80));
+        jPanel1.add(loginLabel, new org.netbeans.lib.awtextra.AbsoluteConstraints(860, 700, 210, 80));
 
         LoginBackBox.setBackground(new java.awt.Color(246, 246, 218));
         LoginBackBox.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(246, 246, 218), 10, true));
@@ -362,6 +368,7 @@ public class Login extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
+    private javax.swing.JLabel jLabel5;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPasswordField jPasswordField1;
     private javax.swing.JTextField jTextField1;
